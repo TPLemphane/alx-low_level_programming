@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - Entry point
- * Description: 'print comb od numbers'
+ * Description: 'print all possible different combinations of two digits'
  * Return: always 0
  */
 int main(void)
@@ -18,12 +18,4 @@ int main(void)
 				putchar(m);
 				if (n != 56 || m != 57)
 				{
-					putchar(',');
-					putchar(' ');
-				}
-			}
-		}
-	}
-	putchar('\n');
-	return (0);
-}
+					p
